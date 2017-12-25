@@ -1,6 +1,6 @@
-#A rhizomatic approach to the future
 #Insurrection-style-app
-#Rhizomes/reflections are based on targets/industries/projects/etc.
+#Rhizomes/reflections are based on targets/industries/projects/etc. - to be discussed in theoretical discourse and trialled
+#in CE-implementation.
 #Next: society-organisation-style-app 
 #Next: strategy-style-app
 
