@@ -47,8 +47,6 @@ optparse.parse!
 #CLASSES
 #--
 
-    
-
 class OpCell
     
     def initialize(opname, start_date, end_date)
@@ -126,18 +124,10 @@ def connect()
     #this connects your cell to the operation with the origin-cell's permission
 end
 
-
 def list()
     puts "Listing off pseudos"
-end    
+end            
 
-
-   
-
-        
-        
-
-        
   #########_ ########--        
  ###STARTING_HERE###----
 ###########_#######------
